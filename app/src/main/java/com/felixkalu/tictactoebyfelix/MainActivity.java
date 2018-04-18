@@ -125,4 +125,6 @@ public class MainActivity extends AppCompatActivity {
             setContentView(R.layout.activity_main);
         }
 
+        // this line is used to check that this project can be updated from my windows project after cloning straight into android studio 3
+
 }

@@ -1,5 +1,5 @@
 package com.felixkalu.tictactoebyfelix;
-
+//editted from github website to test and be sure that things are working well as they should!
 import android.graphics.Color;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

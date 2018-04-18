@@ -9,6 +9,8 @@ import android.view.View;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
+//added this line from android studio to ensure that this pulls through
+
 public class MainActivity extends AppCompatActivity {
 
     // 0= xx, 1 = oo;

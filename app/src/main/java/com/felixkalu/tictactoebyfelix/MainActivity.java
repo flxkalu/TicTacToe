@@ -128,5 +128,7 @@ public class MainActivity extends AppCompatActivity {
         // this line is used to check that this project can be updated from my windows project after cloning straight into android studio 3
         //not i can do whatevery i want with with github even though i am testing this
 
+    //this is another one to test another branch while i still practice with my android studio and github
+
 
 }
